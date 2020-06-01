@@ -12,5 +12,6 @@ public class TestGit {
     public void sum() {
         int i = 0;
         int j = i + 10;
+        System.out.println(j);
     }
 }
