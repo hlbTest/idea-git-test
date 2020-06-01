@@ -13,7 +13,7 @@ public class TestGit {
 
     public static void sum() {
         int i = 0;
-        int j = i + 10;
+        int j = i + 16;
         System.out.println(j);
     }
 }
