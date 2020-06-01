@@ -7,9 +7,11 @@ public class TestGit {
         System.out.println("test git");
         System.out.println("test git");
         System.out.println("test git");
+        // test git
+        sum();
     }
 
-    public void sum() {
+    public static void sum() {
         int i = 0;
         int j = i + 10;
         System.out.println(j);
